@@ -1,0 +1,1 @@
+Live server > load page with ctrl + s
