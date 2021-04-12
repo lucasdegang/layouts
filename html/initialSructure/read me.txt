@@ -1,0 +1,2 @@
+> Estrutura html5
+> Opte por svg inves de img, pois a img é menos performatica que a svg
